@@ -1,0 +1,16 @@
+{
+  "name": "customer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "customerFileData.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" :  "node customerFileData.js"
+  },
+  "keywords": [ "node", "build"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
